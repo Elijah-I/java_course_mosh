@@ -1,0 +1,3 @@
+[submodule "junior"]
+	path = junior
+	url = .\\junior
