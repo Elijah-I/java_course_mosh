@@ -4,3 +4,6 @@
 [submodule "middle"]
 	path = middle
 	url = ./middle/
+[submodule "senior"]
+	path = senior
+	url = ./senior/
